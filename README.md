@@ -25,7 +25,7 @@ utilizando HEROKU (para Back End Spring Boot) y Clever Cloud (para la Base de Da
 **Diagrama Entidad - Relación** (DER) utilizado en la Base de Datos Relacional y que posteriormente se traduce en los Modelos o Entidades del Backend:
 
 <div align="center">
-<img src="https://github.com/guidopilato/Proyectointegrador_GuidoPilato_BackEnd/blob/master/MySQLWorkbench.png" width="400px">
+    <img src="https://github.com/guidopilato/Proyectointegrador_GuidoPilato_BackEnd/blob/master/MySQLWorkbench.png" width="400px">
 </div>
 
 ------
@@ -37,7 +37,7 @@ utilizando HEROKU (para Back End Spring Boot) y Clever Cloud (para la Base de Da
 
     `git clone https://github.com/guidopilato/Proyectointegrador_GuidoPilato_BackEnd.git`
 
-2. Instalar las dependencias de Maven utilizando nuestro IDE preferido o a través del comando:
+2. Instalar las dependencias de Maven con Apache Netbeans ó a través del comando:
 
     `mvn install`
 
