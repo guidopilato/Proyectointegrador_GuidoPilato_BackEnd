@@ -17,3 +17,7 @@ https://github.com/guidopilato/Proyectointegrador_GuidoPilato_BackEnd
 
 Github Frontend
 https://github.com/guidopilato/Proyectointegrador_GuidoPilato_FrontEnd
+
+El Deploy está subido,
+las distintas capas del proyecto integrador se encuentran disponibles en la nube,
+utilizando HEROKU (para Back End Spring Boot) y Clever Cloud (para la Base de Datos MYSQL). 
