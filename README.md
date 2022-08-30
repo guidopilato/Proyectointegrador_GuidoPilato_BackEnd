@@ -30,7 +30,7 @@ utilizando HEROKU (para Back End Spring Boot) y Clever Cloud (para la Base de Da
 
 ------
 
-## ⌨🖱 Instalación
+## Instalación
 - Si queres correr la aplicación en un entorno local tenes que tener en cuenta lo siguiente: 
 
 1. Clonar el repositorio utilizando GIT o descargando el archivo ZIP:
